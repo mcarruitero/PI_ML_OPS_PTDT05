@@ -20,7 +20,7 @@ def PlayTimeGenre(genre):
     
     #Creo diccioanrio Año de lanzamiento con más horas jugadas para el Género 
     result = {
-    "Año de lanzamiento con más horas jugadas para Género {}".format(genre) : max_time_play_gender
+    "Año de lanzamiento con más horas jugadas para Género {}".format(genre):max_time_play_gender
     }
     return result
 
